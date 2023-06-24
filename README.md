@@ -9,7 +9,7 @@
 ## [Project 3: 🚴🏽‍♂️🏃‍♂ ToDo List App](https://github.com/itsmohsin/habit_tracker)
 <img src="ToDoList.png" width="300">
 
-## [Project 5: 💬💭 Chat App](https://github.com/itsmohsin/chatapp_firebase)
+## [Project 4: 💬💭 Chat App](https://github.com/itsmohsin/chatapp_firebase)
 <img src="chatApp.png" width="300">
 
 ## [Project 5: 🗣️ Voice Assistant App](https://github.com/itsmohsin/chatapp_firebase)
