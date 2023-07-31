@@ -3,7 +3,7 @@
 ## [Project 1: 🌦⛈ Weather App](https://github.com/itsmohsin/weather_app) 
 <img src="weatherAppiPhone.png" width="300">
 
-## [Project 2: 🌦⛈ Zoom Clone](https://github.com/itsmohsin/zoom_clone) 
+## [Project 2:  📞🎥 Zoom Clone](https://github.com/itsmohsin/zoom_clone) 
 <img src="zoomClone.png" width="300">
 
 ## [Project 3: 🚴🏽‍♂️🏃‍♂ Habit Tracker App](https://github.com/itsmohsin/habit_tracker)
