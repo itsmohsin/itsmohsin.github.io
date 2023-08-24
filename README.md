@@ -1,6 +1,6 @@
 # Kotlin Portfolio
 
-## [Project 1: 🌦⛈ Instagram Clone](https://github.com/itsmohsin/InstagramClone) 
+## [Project 1: Instagram Clone](https://github.com/itsmohsin/InstagramClone) 
 <img src="instagramClone.png" width="300">
 
 ## [Project 2: 🌦⛈ Kotlin Weather App](https://github.com/itsmohsin/kotlin_WeatherApp) 
