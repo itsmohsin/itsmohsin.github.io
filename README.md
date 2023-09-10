@@ -1,6 +1,6 @@
 # Flutter Portfolio
 
-## [Project 1: Tictok Clone](https://github.com/itsmohsin/tiktok) 
+## [Project 1: Tiktok Clone](https://github.com/itsmohsin/tiktok) 
 <img src="tiktokClone.png" width="300">
 
 ## [Project 2: Manasu](https://github.com/itsmohsin/manasuApp) 
